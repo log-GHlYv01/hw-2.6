@@ -24,7 +24,7 @@ public class Main {
                 System.out.println(num);
             }
         }
-        }
+    }
     public static List<Integer> genereit (int n) {
         List<Integer> list = new ArrayList<>(n);
         for (int i = 0; i < n; i++) {
