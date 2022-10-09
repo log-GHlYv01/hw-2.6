@@ -57,4 +57,5 @@ public class Main {
         System.out.print("Сгенерированые числа:" + list);
         return list;
     }
+
 }
